@@ -1,0 +1,147 @@
+0:Reserved 
+1:tcpmux 
+7:Echo 
+19:Character Generator 
+21:FTP 
+22:Ssh 
+23:Telnet 
+25:SMTP
+31:MSG Authentication,木马Master Paradise、Hackers Paradise开放此端口。
+42:WINS Replication 
+53:Domain Name Server（DNS） 
+67:Bootstrap Protocol Server 
+69:Trival File Transfer 
+79:Finger Server 
+80:HTTP
+99:Metagram Relay,后门程序ncx99开放此端口。
+102:Message transfer agent(MTA)-X.400 over TCP/IP 
+109:Post Office Protocol -Version3 
+110:SUN公司的RPC服务所有端口(POP3) 
+113:Authentication Service 
+119:Network News Transfer Protocol 
+135:Location Service 
+137:NETBIOS Name Service 
+138:NETBIOS Name Service 
+139:NETBIOS Name Service 
+143:Interim Mail Access Protocol v2 (IMAP)
+161:SNMP 
+177:X Display Manager Control Protocol 
+389:LDAP、ILS 
+443:Https 
+445:提供局域网中文件或打印机共享服务
+456:木马HACKERS PARADISE开放此端口。
+513:Login,remote login 
+544:kerberos kshell
+548:Macintosh,File Services(AFP/IP) 
+553:CORBA IIOP （UDP） 
+555:DSF,木马PhAse1.0、Stealth Spy、IniKiller开放此端口。
+568:Membership DPA 
+569:Membership MSN 
+635:mountd 
+636:LDAP,SSL（Secure Sockets layer）
+666:Doom Id Software,木马Attack FTP、Satanz Backdoor开放此端口
+902:vCenter Server
+912:VMware
+993:IMAP,SSL（Secure Sockets layer）
+1011:木马Doly Trojan开放1011端口
+1024:Reserved
+1025:network blackjack,木马netspy开放这个端口。
+1026:Unused Windows Services Block
+1027:Unused Windows Services Block
+1033:木马netspy开放这个端口。
+1080:SOCKS 
+1170:木马Streaming Audio Trojan、Psyber Stream Server、Voice开放此端口。
+1234:木马SubSeven2.0、UltorsTrojan开放1234、6776端口。
+6776:木马SubSeven2.0、UltorsTrojan开放1234、6776端口,木马SubSeven1.0/1.9开放1243、6711、6776端口。
+1243:木马SubSeven1.0/1.9开放1243、6711、6776端口。
+6711:木马SubSeven1.0/1.9开放1243、6711、6776端口。
+1245:木马Vodoo开放此端口。
+1433:SQL 
+1492:stone-design-1 
+1500:RPC client fixed port session queries 
+1503:NetMeeting T.120 
+1524:ingress 
+1600:issd 
+1720:NetMeeting 
+1731:NetMeeting Audio Call Control 
+1807:木马SpySender开放此端口。
+1981:木马ShockRave开放此端口。
+1999:cisco identification port,木马BackDoor开放此端口。
+2000:木马GirlFriend 1.3、Millenium 1.0开放此端口。
+2001:木马Millenium 1.0、Trojan Cow开放此端口。
+2023:xinuexpansion 4,木马Pass Ripper开放此端口。
+2049:NFS 
+2115:木马Bugs开放此端口。
+2140:木马Deep Throat 1.0/3.0开放此端口。
+3150:木马Deep Throat 1.0/3.0开放此端口。
+2500:RPC client using a fixed port session replication 
+2583:木马Wincrash 2.0开放此端口。
+2801:木马Phineas Phucker开放此端口。
+3306:MySQL
+3024:木马WinCrash开放此端口。
+4092:木马WinCrash开放此端口。
+3128:squid 
+3129:木马Master Paradise开放此端口。
+3150:木马The Invasor开放此端口。
+3210:木马SchoolBus开放此端口。
+4321:木马SchoolBus开放此端口。
+3333:dec-notes,木马Prosiak开放此端口
+3389:超级终端,windows远程连接端口。 
+3700:木马Portal of Doom开放此端口
+4000:QQ客户端 
+4092:木马WinCrash开放此端口。
+4590:木马ICQTrojan开放此端口。
+5000:木马blazer5开放5000端口。
+5001:木马Sockets de Troie开放5000、5001、5321、50505端口。
+5401:木马Blade Runner开放此端口。
+5402:木马Blade Runner开放此端口。
+5550:木马xtcp开放此端口。
+5569:木马Robo-Hack开放此端口。
+5632:pcAnywere 
+5742:木马WinCrash1.03开放此端口。
+6267:木马广外女生开放此端口。
+6400:木马The tHing开放此端口。
+6670:木马Deep Throat开放6670端口。
+6671:木马Deep Throat 3.0开放6671端口。
+6883:木马DeltaSource开放此端口。
+6969:木马Gatecrasher、Priority开放此端口。
+6970:RealAudio 
+7000:木马Remote Grab开放此端口。
+7323:Sygate服务器端。
+7626:木马Giscier开放此端口。
+7789:木马ICKiller开放此端口。
+8000:OICQ,腾讯QQ服务器端开放此端口;python django端口
+8010:Wingate 
+8080:WWW代理开放此端口。
+9400:木马Incommand 1.0开放此端口。
+9401:木马Incommand 1.0开放此端口。
+9402:木马Incommand 1.0开放此端口。
+9989:木马iNi-Killer开放此端口。
+11000:木马SennaSpy开放此端口。
+11223:木马Progenic trojan开放此端口。
+12076:木马Telecommando开放此端口。
+61466:木马Telecommando开放此端口。
+12223:木马Hack'99 KeyLogger开放此端口。
+12361:木马Whack-a-mole开放此端口。
+13223:PowWow 
+16969:木马Priority开放此端口。
+17027:Conducent 
+19191:木马蓝色火焰开放此端口。
+20000:木马Millennium开放此端口。
+20001:木马Millennium开放此端口。
+20034:木马NetBus Pro开放此端口。
+21554:木马GirlFriend开放此端口。
+22222:木马Prosiak开放此端口。
+23456:木马Evil FTP、Ugly FTP开放此端口。
+47262:木马Delta开放此端口。
+27374:木马Subseven 2.1开放此端口。
+30100:木马NetSphere开放此端口。
+30303:木马Socket23开放此端口。
+30999:木马Kuang开放此端口。
+33333:木马Prosiak开放此端口。
+34324:木马Tiny Telnet Server、BigGluck、TN开放此端口。
+40412:木马The Spy开放此端口。
+44445:木马Happypig开放此端口。
+50766:木马Fore开放此端口。
+53001:木马Remote Windows Shutdown开放此端口。
+65000:木马Devil 1.03开放此端口。
